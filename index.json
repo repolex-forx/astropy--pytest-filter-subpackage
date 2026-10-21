@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "pytest-filter-subpackage",
+  "versions": [
+    {
+      "commit": "30737bed6bbe975a3e65d2f439eec296e9e4d990",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:21:26.997457+00:00"
+    }
+  ]
+}
